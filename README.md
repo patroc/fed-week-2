@@ -1,10 +1,12 @@
 # fed-week-2
-fed-week-2
 
-Includes : 
 
-CSS DRILL 
+<h1 style= color:"red">fed-week-2 </h1>
 
-and 
+<h2>Includes :</h2>
 
-<h1>PORTFOLIO HTML with CSS STYLING </h1>
+<h3>CSS DRILL </h3>
+
+<h3>and</h3>
+
+<h3>PORTFOLIO HTML with CSS STYLING </h3>

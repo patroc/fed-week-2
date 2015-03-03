@@ -1,7 +1,4 @@
-# fed-week-2
-
-
-<h1 style= color:"red">fed-week-2 </h1>
+<h1 style= font-color:"red";>fed-week-2 </h1>
 
 <h2>Includes :</h2>
 
